@@ -23,5 +23,5 @@ Enviei um email para arf92@live.com para ajudar o projeto a crescer.
 - Vitor Miranda
 - Marcus Voltolim
 
-# Licensa
-Licensiado com a licença do MIT.
+# Licença
+Licenciado com a licença do MIT.
